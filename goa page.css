@@ -1,0 +1,33 @@
+.bg-container {
+    background-size: cover;
+    height: 100vh;
+	width:100vh;
+}
+
+.paragraph {
+    color: #9aa5b1;
+}
+
+.box2 {
+    padding: 4px;
+}
+
+.heading {
+    color: #323f4b;
+}
+
+.goa-video-container {
+    width: 96px;
+    height: 96px;
+    border-radius: 8px;
+    margin: 4px;
+}
+
+.pictures {
+    margin: 4px;
+    border-radius: 8px;
+}
+
+.xyz {
+    padding: 4px;
+}
